@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		60C553F62B92E84300D8ECF8 /* TintTint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TintTint.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		60C553F62B92E84300D8ECF8 /* TinTint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TinTint.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60C553F92B92E84300D8ECF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60C553FB2B92E84300D8ECF8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		60C554022B92E84400D8ECF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		60C553ED2B92E84300D8ECF8 = {
 			isa = PBXGroup;
 			children = (
-				60C553F82B92E84300D8ECF8 /* TintTint */,
+				60C553F82B92E84300D8ECF8 /* TinTint */,
 				60C553F72B92E84300D8ECF8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 		60C553F72B92E84300D8ECF8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				60C553F62B92E84300D8ECF8 /* TintTint.app */,
+				60C553F62B92E84300D8ECF8 /* TinTint.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		60C553F82B92E84300D8ECF8 /* TintTint */ = {
+		60C553F82B92E84300D8ECF8 /* TinTint */ = {
 			isa = PBXGroup;
 			children = (
 				60C553F92B92E84300D8ECF8 /* AppDelegate.swift */,
@@ -72,7 +72,7 @@
 				60C554042B92E84400D8ECF8 /* LaunchScreen.storyboard */,
 				60C554072B92E84400D8ECF8 /* Info.plist */,
 			);
-			path = TintTint;
+			path = TinTint;
 			sourceTree = "<group>";
 		};
 		60C5540D2B92E85A00D8ECF8 /* Models */ = {
@@ -111,9 +111,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		60C553F52B92E84300D8ECF8 /* TintTint */ = {
+		60C553F52B92E84300D8ECF8 /* TinTint */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 60C5540A2B92E84400D8ECF8 /* Build configuration list for PBXNativeTarget "TintTint" */;
+			buildConfigurationList = 60C5540A2B92E84400D8ECF8 /* Build configuration list for PBXNativeTarget "TinTint" */;
 			buildPhases = (
 				60C553F22B92E84300D8ECF8 /* Sources */,
 				60C553F32B92E84300D8ECF8 /* Frameworks */,
@@ -123,9 +123,9 @@
 			);
 			dependencies = (
 			);
-			name = TintTint;
+			name = TinTint;
 			productName = TintTint;
-			productReference = 60C553F62B92E84300D8ECF8 /* TintTint.app */;
+			productReference = 60C553F62B92E84300D8ECF8 /* TinTint.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -143,7 +143,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 60C553F12B92E84300D8ECF8 /* Build configuration list for PBXProject "TintTint" */;
+			buildConfigurationList = 60C553F12B92E84300D8ECF8 /* Build configuration list for PBXProject "TinTint" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -156,7 +156,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				60C553F52B92E84300D8ECF8 /* TintTint */,
+				60C553F52B92E84300D8ECF8 /* TinTint */,
 			);
 		};
 /* End PBXProject section */
@@ -329,7 +329,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TintTint/Info.plist;
+				INFOPLIST_FILE = TinTint/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -339,7 +339,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Billy.TintTint;
+				PRODUCT_BUNDLE_IDENTIFIER = Billy.TinTint;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -355,7 +355,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TintTint/Info.plist;
+				INFOPLIST_FILE = TinTint/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -365,7 +365,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Billy.TintTint;
+				PRODUCT_BUNDLE_IDENTIFIER = Billy.TinTint;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -376,7 +376,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		60C553F12B92E84300D8ECF8 /* Build configuration list for PBXProject "TintTint" */ = {
+		60C553F12B92E84300D8ECF8 /* Build configuration list for PBXProject "TinTint" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				60C554082B92E84400D8ECF8 /* Debug */,
@@ -385,7 +385,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		60C5540A2B92E84400D8ECF8 /* Build configuration list for PBXNativeTarget "TintTint" */ = {
+		60C5540A2B92E84400D8ECF8 /* Build configuration list for PBXNativeTarget "TinTint" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				60C5540B2B92E84400D8ECF8 /* Debug */,
