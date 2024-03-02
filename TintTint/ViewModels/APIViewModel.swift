@@ -10,7 +10,7 @@ import UIKit
 class APIViewModel {
     var photoDatas: [APIModel] = []
     var currentPage = 1
-    let perPage = 10
+    let perPage = 40
     
     func getPhotos(completion: @escaping ([APIModel]?, Error?) -> Void) {
         guard let url = URL(string: "https://jsonplaceholder.typicode.com/photos?_page=\(currentPage)&_limit=\(perPage)") else { return }
