@@ -1,4 +1,4 @@
-# TintTint Project
+# TinTint Project
 
 * Development Language: Swift
 * Architecture pattern: MVVM
